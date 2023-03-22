@@ -4,3 +4,5 @@ alert "Hello World!"
 
 echo 'holla world!' ;
 
+Glory to Ukraine!
+
